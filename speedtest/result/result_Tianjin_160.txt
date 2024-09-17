@@ -1,2 +1,1 @@
-862k  nas.hssvm.com:8888
-162k  125.36.87.158:8888
+1173k  nas.hssvm.com:8888
