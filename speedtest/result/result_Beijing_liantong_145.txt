@@ -1,7 +1,8 @@
-1276k  wg.mxmy.net:8888
-1177k  imzbpfrp.zzmd.fun:8888
-1132k  114.246.102.14:4000
-1123k  111.193.225.167:8888
-1112k  111.196.128.239:4022
-1103k  drive.mxmy.net:8888
-906k  sweetown.fun:4000
+1160k  wg.mxmy.net:8888
+1149k  mtjkwdrive.zzmd.fun:8888
+1080k  114.246.102.14:4000
+1079k  123.113.236.69:8012
+1022k  cn.zzmd.fun:8888
+922k  114.246.181.171:4022
+900k  iptv.8t.cx:8180
+614k  imzbpfrp.zzmd.fun:8888
